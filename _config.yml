@@ -1,14 +1,14 @@
 # Site settings
 title: IoT | Snow Totals
-description: "A minimal blog template, build with Jekyll."
+description: "Senior Capstone at SUNY New Paltz"
 url: "http://www.jacoporabolini.com/emerald"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Marchant, K. Telles, F."
+  email: "N02630113@hawkmail.newpaltz.edu"
+
 
 # Build settings
-baseurl: /emerald/ # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /IoTSnow/ # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
