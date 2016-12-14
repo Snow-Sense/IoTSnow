@@ -4,7 +4,7 @@ Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to
 ![Emerald](/img/Emerald01.png "Emerald")
 
 ## Setup & usage
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
+Emerald may be installed by simply downloading the .zip folder from the ![Logo](http://imgur.com/a/PIJqT)
 
 After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
 
