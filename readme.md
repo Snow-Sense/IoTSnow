@@ -1,7 +1,6 @@
 ## About
 Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
 
-![Logo](http://imgur.com/a/PIJqT "Logo")
 
 ## Setup & usage
 Emerald may be installed by simply downloading the .zip folder from the 
