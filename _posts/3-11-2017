@@ -1,0 +1,34 @@
+---
+title: Welcome Back
+---
+
+
+After taking some time off from blogging, I'd like to discuss some of the updates and progress made by the team.  A lot has been done and discussed.
+
+## Update
+Since the last update, we've had a few meetings with Dr. Izadi and Dr. Nitya.  Things we've discussed and looked into are as follows:
+* Adding authentication
+* Adding Google Maps capabilities
+* Casing
+* Hardware/Software Issues
+
+On March 11th, Dr. Nitya came to campus for a GDG Hudson Valley Meetup Session.  The initial casing was designed to expose the ultrasonic sensors.
+
+
+### The following questions/potential issues came up:
+- Materials - Epoxy/Casing itself
+- Does the team just want a proof of concept and to not worry about spending $50 for a finalized box made with materials or is it enough to just be able to discuss
+- Presentation in NYC on May 1st -- this is four days prior to SD2 Expo @ campus
+- Velcro 
+- Should we cone the "top" of the box? Will snow pile up on top
+- Lego house / Birdfeeder
+- Extreme weather conditions, make sure the materials utilized can withstand.
+- Could we invest in a track that the user will have to manually slide the device
+- Electro-mechanical components added could freeze up/require an external power supply
+- Moisture sensors -- We talked with Plowz/Mowz, would we be able to show growth of grass to request mowing services??
+- Barometric pressure sensors to be able to measure air moisture, could we sense when a storm is coming (rain or snow) based on a pressure difference??
+
+
+> Thanks for reading!
+
+### We have a our presentation for our expo on May 5th, 2017 at SUNY New Paltz.
